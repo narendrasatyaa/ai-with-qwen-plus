@@ -1,0 +1,4 @@
+dashscope
+streamlit
+pandas
+numpy
