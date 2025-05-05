@@ -1,6 +1,3 @@
-Tentu! Kamu bisa menambahkan penjelasan tentang arti nama **Tirta** dalam bagian deskripsi di README. Berikut adalah update untuk bagian deskripsi agar lebih jelas tentang makna nama **Tirta** dan relevansinya dengan proyek AI kamu:
-
-
 # Tirta - AI yang Selalu Memberikan Solusi
 
 **Tirta** berasal dari kata dalam bahasa Sanskerta yang berarti "air" atau "sumber kehidupan". Nama ini dipilih karena **Tirta AI** berfungsi layaknya air yang mengalir: selalu tersedia, mudah diakses, dan memberikan solusi yang mengalir secara alami. Seperti air yang memberikan kehidupan dan memenuhi berbagai kebutuhan, Tirta hadir untuk membantu pengguna dengan memberikan jawaban dan penjelasan yang dibutuhkan kapan saja, dengan cara yang sederhana dan mudah dipahami.
