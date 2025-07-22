@@ -3,13 +3,6 @@ import streamlit as st
 import dashscope
 from dashscope import Generation
 
-# Konfigurasi CORS
-app.add_middleware(
-    CORSMiddleware,
-    allow_origins=["*"],  # Untuk development, batasi di production
-    allow_methods=["POST"],
-    allow_headers=["*"],
-)
 
 # Set API key Anda
 DASHSCOPE_API_KEY = 'sk-95a168a9cefd4f2fb5a3c1b7847929fc'
