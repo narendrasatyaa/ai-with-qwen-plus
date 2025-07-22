@@ -9,7 +9,7 @@ DASHSCOPE_API_KEY = 'sk-95a168a9cefd4f2fb5a3c1b7847929fc'
 dashscope.api_key = DASHSCOPE_API_KEY
 dashscope.base_http_api_url = 'https://dashscope-intl.aliyuncs.com/api/v1'
 
-@app.post("/generate")
+
 async def generate_questions(request: Request):
     try:
         data = await request.json()
