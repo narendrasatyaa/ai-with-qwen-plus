@@ -3,8 +3,6 @@ import streamlit as st
 import dashscope
 from dashscope import Generation
 
-app = FastAPI()
-
 # Konfigurasi CORS
 app.add_middleware(
     CORSMiddleware,
